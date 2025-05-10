@@ -76,84 +76,40 @@ const services = [
 
 const technologies = [
   {
-    name: "HTML 5",
-    icon: html,
+    name: "Python",
+    icon: python,
   },
   {
-    name: "CSS 3",
-    icon: css,
+    name: "Rust",
+    icon: rust,
+  },
+  {
+    name: "C++",
+    icon: cpp,
+  },
+  {
+    name: "C",
+    icon: c,
+  },
+  {
+    name: "C#",
+    icon: csharp,
   },
   {
     name: "JavaScript",
     icon: javascript,
   },
   {
-    name: "TypeScript",
-    icon: typescript,
-  },
-  {
-    name: "React JS",
+    name: "React",
     icon: reactjs,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
-  },
-  {
-    name: "Tailwind CSS",
-    icon: tailwind,
-  },
-  {
-    name: "Node JS",
+    name: "Node.js",
     icon: nodejs,
   },
   {
-    name: "MongoDB",
-    icon: mongodb,
-  },
-  {
-    name: "Three JS",
-    icon: threejs,
-  },
-  {
-    name: "PostgreSQL",
-    icon: postgresql,
-  },
-  {
-    name: "MySQL",
-    icon: mysql,
-  },
-  {
-    name: "Express",
-    icon: express,
-  },
-  {
-    name: "AWS",
-    icon: aws,
-  },
-  {
-    name: "Material UI",
-    icon: mui,
-  },
-  {
-    name: "GSAP",
-    icon: gsap,
-  },
-  {
-    name: "Framer Motion",
-    icon: framer,
-  },
-  {
-    name: "Docker",
-    icon: docker,
-  },
-  {
-    name: "Git",
-    icon: git,
-  },
-  {
-    name: "Figma",
-    icon: figma,
+    name: "Assembly",
+    icon: assembly,
   },
 ];
 
