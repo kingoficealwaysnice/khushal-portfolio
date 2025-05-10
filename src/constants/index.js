@@ -200,30 +200,30 @@ const experiences = [
   },
 ];
 
-const testimonials = [
+export const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Khushal proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: firstTestimonial,
+      "Khushal's expertise in machine learning and deep learning is exceptional. His work on our AI trading bot project demonstrated his ability to implement complex algorithms and optimize them for real-world applications.",
+    name: "Dr. Sarah Chen",
+    designation: "Head of AI Research",
+    company: "QuantTech Solutions",
+    image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Khushal does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: secondTestimonial,
-  },
-  {
-    testimonial:
-      "After Khushal optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
+      "Working with Khushal on our blockchain project was a game-changer. His deep understanding of smart contracts and decentralized systems helped us build a robust and secure platform that exceeded our expectations.",
+    name: "Michael Rodriguez",
     designation: "CTO",
-    company: "456 Enterprises",
-    image: thirdTestimonial,
+    company: "BlockChain Innovations",
+    image: "https://randomuser.me/api/portraits/men/5.jpg",
+  },
+  {
+    testimonial:
+      "Khushal's contributions to our ML infrastructure were invaluable. His expertise in model optimization and deployment helped us achieve significant performance improvements in our recommendation systems.",
+    name: "Dr. James Wilson",
+    designation: "Lead Data Scientist",
+    company: "AI Solutions Corp",
+    image: "https://randomuser.me/api/portraits/men/6.jpg",
   },
 ];
 
